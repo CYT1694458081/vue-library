@@ -9,7 +9,7 @@
       </div>
       <el-dropdown-menu slot="dropdown">
         <el-dropdown-item><a @click="out">退出登录</a></el-dropdown-item>
-        <el-dropdown-item><a href="https://github.com/CYT1694458081/java-library" style="text-decoration:none">后端GIT地址</a></el-dropdown-item>
+        <el-dropdown-item><a href="https://github.com/CYT1694458081/library" style="text-decoration:none">后端GIT地址</a></el-dropdown-item>
       </el-dropdown-menu>
     </el-dropdown>
     <span style="font-size:25px; color: rgb(250, 246, 246)">{{name}}</span>
